@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/title.ico</file>
+        <file>image/bus.gif</file>
+        <file>image/clock.gif</file>
+        <file>image/plane.gif</file>
+        <file>image/train.gif</file>
+        <file>image/icon_2.ico</file>
+        <file>image/titile_2.ico</file>
+        <file>image/pas_mes.png</file>
+        <file>image/pas_mes1.png</file>
+        <file>image/arrange.png</file>
+        <file>image/finish.png</file>
+        <file>image/id.png</file>
+        <file>image/srategy.png</file>
+        <file>image/start.png</file>
+        <file>image/limit.png</file>
+        <file>image/add.png</file>
+        <file>image/exit.png</file>
+        <file>image/serch.png</file>
+        <file>image/1111.jpg</file>
+        <file>image/254.png</file>
+        <file>image/serach.png</file>
+        <file>image/travel.png</file>
+        <file>image/11111111.jpg</file>
+        <file>image/map1111.png</file>
+        <file>image/position.png</file>
+        <file>image/cartoon.png</file>
+        <file>image/change.png</file>
+    </qresource>
+</RCC>
